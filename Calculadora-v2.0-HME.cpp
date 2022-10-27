@@ -18,5 +18,5 @@ int main () {
 	cout << "El tremendo resultado de la suma es: "<<(numero1 + numero2)<< endl;
 	cout << "El tremendo resultado de la resta es: "<<(numero1 - numero2)<< endl;
 	cout << "El tremendo resultado de la multiplicación es: "<<(numero1 * numero2)<< endl;
-	cout << "El tremendo resultado de la división es: "<<(numero1 / numero2)<< endl;
+	cout << "El tremendo resultado de la division es: "<<(numero1 / numero2)<< endl;
 }
