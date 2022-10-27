@@ -6,7 +6,7 @@ int main () {
 	double numero1 = 0, numero2 = 0;
 
 	// Bienvenida cordial a mi calculadora
-	cout << "Bienvenido a mi calculadora, por favor siga las instrucciones: " << endl;
+	cout << "Bienvenido a mi cauladora, por favor siga las instrucciones: " << endl;
 
 	// Interacción con el usuario
 	cout << "Introduce aquí un número, parguela: ";
